@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="kursiii" size="1.000000 1.000000" />
+    <ImageTarget name="chair" size="1.000000 0.624194" />
+    <ImageTarget name="miniatur" size="1.000000 0.800000" />
+    <ImageTarget name="hellokitty" size="1.000000 1.000000" />
+    <ImageTarget name="tablee" size="1.000000 1.000000" />
+    <ImageTarget name="meja" size="1.000000 1.000000" />
+    <ImageTarget name="tangga" size="1.000000 0.624194" />
+    <ImageTarget name="mejakursi" size="1.000000 0.561290" />
+    <ImageTarget name="book" size="1.000000 0.750000" />
+    <ImageTarget name="desgraf_ar" size="15.000000 21.238937" />
+  </Tracking>
+</QCARConfig>
